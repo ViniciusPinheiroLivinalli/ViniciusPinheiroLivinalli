@@ -30,9 +30,9 @@ Take a look at my repositories to see some of my academic and personal projects 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinícius-pinheiro-livinalli-06822b244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinícius-pinheiro-livinalli-06822b244)  
+📧 **Email:** viniciuspinheirolivinalli@gmail.com
 
 ---
 
 _“Passion for data, dedication to innovation.”_
-
