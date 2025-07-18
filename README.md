@@ -16,7 +16,7 @@ Currently, I’m an undergraduate student specializing in Data Science and Artif
 
 - **Languages:** Python, C, R, SQL (MySQL), NoSQL (MongoDB)
 - **Data Analysis:** Power BI, Statistic, Data Visualization
-- **Other:** Data Cleaning, Academic Research, Analytical Thinking
+- **Other:** Data Cleaning, Academic Research, Analytical Thinking, Cloud Computing
 
 ---
 
