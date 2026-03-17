@@ -7,14 +7,15 @@ Pontifícia Universidade Católica de Campinas (PUC-Campinas)
 
 ## 🚀 About Me
 
-I'm passionate about transforming data into strategic insights!  
-Currently, I’m an undergraduate student specializing in Data Science and Artificial Intelligence at PUC-Campinas. I thrive on academic projects that use Python, C, MySQL, MongoDB and visualization tools to solve real-world challenges. I’m looking for internship opportunities to further develop my technical skills and make an impact on data-driven teams.
+I'm passionate about Data Science, Artificial Intelligence, and building intelligent solutions that turn data into insights.
+Currently, I’m an undergraduate student in Data Science and Artificial Intelligence at PUC-Campinas, focused on applying data, machine learning and AI to solve real-world problems.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, C, R, SQL (MySQL), NoSQL (MongoDB)
+- **Languages:** Python, C, R, Javascript
+- **Data & Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Data Analysis:** Power BI, Statistic, Data Visualization
 - **Other:** Data Cleaning, Academic Research, Analytical Thinking, Cloud Computing
 
