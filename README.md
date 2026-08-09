@@ -7,7 +7,7 @@ Sou apaixonado por Ciência de Dados, Inteligência Artificial e por transformar
 ## Experiência Profissional
 
 - **Estagiário em Dados** — V4 Company *(03/2026 – Atual)*
-  Dashboards em Power BI e Metabase, ETL/ELT com SQL, DBT e Amazon Redshift, modelagem de dados e UX/UI para visualização com Figma.
+  Dashboards em Power BI e Metabase, ETL/ELT com SQL, DBT, Apache Airflow e Amazon Redshift, extração e modelagem de dados.
 
 - **Fundador** — Pataco (Startup de Tecnologia e Finanças) *(06/2025 – Atual)*
   Desenvolvimento do MVP, validação de produto, planejamento e testes de usabilidade.
@@ -27,13 +27,14 @@ Modelagem de tópicos (LDA, BERTopic) e análise de sentimentos com modelos base
 
 ## Skills & Tools
 
-- **Linguagens:** Python, JavaScript, R
-- **Banco de Dados:** SQL (MySQL, PostgreSQL, Amazon Redshift), NoSQL (MongoDB)
-- **Análise & Visualização:** Power BI, Metabase, Excel, Data Visualization, Dashboards & KPIs
-- **Engenharia de Dados:** ETL/ELT, DBT, Apache Spark, Modelagem de Dados
-- **IA & Dados:** Machine Learning, NLP, BERTopic, LDA, Transformers
-- **Ferramentas:** Git/GitHub, Figma, N8N, Supabase
-- **Conceitos:** Cloud Computing, Automação de Processos, EDA
+- **Linguagens:** Python, JavaScript, R;
+- **Engenharia e Processamento de Dados:** SQL, Python, ETL/ELT, Data Modeling, dbt, Apache Airflow, Apache Spark;
+- **Banco de Dados:** PostgreSQL, MySQL, Amazon Redshift, MongoDB);
+- **Cloud/Dados:** AWS, Amazon Redshift, Supabase;
+- **BI:** Power BI, Metabase, Excel;
+- **Ferramentas:** Git, GitHub, N8N;
+- **Data Science/IA:** Machine Learning, NLP, BERTopic, LDA, Transformers;
+- **Conceitos:** Governança de Dados, Cloud Computing.
 
 ---
 
