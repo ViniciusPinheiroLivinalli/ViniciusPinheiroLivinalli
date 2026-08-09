@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Sou apaixonado por Ciência de Dados, Inteligência Artificial e por transformar dados em soluções reais. Atualmente atuo como **Estagiário em Dados na V4 Company**, onde desenvolvo dashboards estratégicos e modelagem de dados, e sou **Fundador da Pataco**, uma startup voltada à educação e organização financeira. Também tenho experiência em automação de processos e integrações de sistemas, e desenvolvo pesquisa acadêmica aplicando Processamento de Linguagem Natural (NLP) à análise de documentos institucionais.
+Sou apaixonado por Ciência de Dados, Inteligência Artificial e por transformar dados em soluções reais. Atualmente atuo como **Estagiário em Dados na V4 Company**, onde desenvolvo dashboards estratégicos, extração e modelagem de dados. Também desenvolvo uma pesquisa acadêmica aplicando Processamento de Linguagem Natural (NLP) à análise de documentos institucionais.
 
 ---
 
