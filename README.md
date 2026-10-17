@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-<samp>&gt; Olá, eu sou o Vinícius! </samp>
+<samp>&gt; Hi, I'm Vinícius! </samp>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-pinheiro-livinalli-06822b244/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuspinheirolivinalli@gmail.com)
 
-- 🧑‍💻 Engenheiro de Dados na V4 Company e estudante de Ciência de Dados e IA na PUC-Campinas, apaixonado por pipelines confiáveis e dados bem governados.
-- 💬 Sempre disponível para uma conversa sobre **Engenharia de Dados**, governança, Machine Learning e NLP.
-- 📫 Fale comigo: [email](mailto:viniciuspinheirolivinalli@gmail.com)
+- 🧑‍💻 Data Engineer at V4 Company and Data Science & AI student at PUC-Campinas, passionate about reliable pipelines and well-governed data.
+- 💬 Always up for a chat about **Data Engineering**, data governance, Machine Learning and NLP.
+- 📫 Reach out to me: [email](mailto:viniciuspinheirolivinalli@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusPinheiroLivinalli/ViniciusPinheiroLivinalli/output/github-snake-dark.svg" />
@@ -17,7 +17,7 @@
 
 ---
 
-#### Minha Stack Atual
+#### My Current Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
